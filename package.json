@@ -1,5 +1,19 @@
 {
   "name": "hoge_project",
   "private": true,
-  "dependencies": {}
+  "dependencies": {
+    "@rails/webpacker": "^3.5.5",
+    "axios": "^0.18.0",
+    "element-ui": "^2.4.11",
+    "qs": "^6.6.0",
+    "vue": "^2.5.17",
+    "vue-loader": "^15.4.2",
+    "vue-router": "^3.0.2",
+    "vue-template-compiler": "^2.5.17",
+    "vuex": "^3.0.1"
+  },
+  "devDependencies": {
+    "webpack-cli": "^3.1.2",
+    "webpack-dev-server": "^3.1.10"
+  }
 }
